@@ -19,7 +19,7 @@ Waste of Space, does absolutely nothing useful.
 
 
 ## Screenshots
-![Screenshot of Waste of Space](./doc/screenshots/example.jpg)
+![Screenshot of Waste of Space](./doc/screenshots/image.png)
 
 ## 📦 Developer info
 
