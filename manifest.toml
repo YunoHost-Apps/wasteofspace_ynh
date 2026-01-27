@@ -57,7 +57,7 @@ ram.runtime = "50M"
 
     [resources.data_dir]
     subdirs = ["data", "config"]
-    group = "www-data"
+    group = "www-data:r"
 
     [resources.permissions]
     main.url = "/"
