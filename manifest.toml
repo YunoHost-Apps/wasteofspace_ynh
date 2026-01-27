@@ -46,7 +46,6 @@ ram.runtime = "50M"
     [resources.sources.main]
     url = "https://github.com/YunoHost-Apps/wasteofspace_ynh/releases/download/v1.0/assets.tar.xz"
     sha256 = "330ddcf3d0f6eea05b2945e051d06ab5f1fbf6e82f70a27d84181da0c854b9bc"
-    in_subdir = false
 
     [resources.sources.data]
     url = "https://github.com/YunoHost-Apps/wasteofspace_ynh/releases/download/v1.0/noassets.html.xz"
