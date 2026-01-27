@@ -52,6 +52,7 @@ ram.runtime = "50M"
     url = "https://github.com/YunoHost-Apps/wasteofspace_ynh/releases/download/v1.0/noassets.html.xz"
     sha256 = "233c3e5a9c0beeaee2ba0cee51dda17b452a57f89d80345b75fdb4a15705aba7"
     in_subdir = false
+    rename = "noassets.html"
 
     [resources.system_user]
 
