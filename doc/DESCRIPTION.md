@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+This app does nothing, it's for testing purposes only.
