@@ -1,1 +1,1 @@
-This app does nothing, it's for testing purposes only.
+This app does nothing useful. For testing purposes only.
